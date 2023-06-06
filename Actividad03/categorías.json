@@ -1,26 +1,26 @@
 [
     {
-      "category": "Cultura",
-      "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+      "category": "Superhéroes",
+      "description": "Preguntas relacionadas con superhéroes populares de cómics y películas."
     },
     {
-      "category": "Deportes",
-      "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+      "category": "Deportes extremos",
+      "description": "Preguntas relacionadas con diversos deportes y actividades de riesgo."
     },
     {
-      "category": "Arte",
-      "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+      "category": "Ciudades del mundo",
+      "description": "Preguntas relacionadas con ciudades importantes alrededor del mundo."
     },
     {
-      "category": "Cine",
-      "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+      "category": "Películas de culto",
+      "description": "Preguntas relacionadas con películasque han desarrollado un culto de seguidores a lo largo del tiempo."
     },
     {
-      "category": "Historia",
-      "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+      "category": "Mitología griega",
+      "description": "Preguntas relacionadas con la mitología griega, incluyendo a los dioses, héroes y las historias."
     },
     {
-      "category": "Ciencia",
-      "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+      "category": "Inventos y descubrimientos",
+      "description": "Preguntas relacionadas con los inventos y descubrimientos que han tenido un impacto significativo en la sociedad."
     }
   ]
